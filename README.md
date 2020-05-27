@@ -36,4 +36,5 @@ Cluster 1 -- Low COVID-19 confirmed percentage and High Obesity percentage.
 Cluster 2 -- High COVID-19 confirmed percentage and High Obesity percentage.
       Ex. United States of America, Spain, Iceland             
 So we can see that contries where obesity is low COVID-19 cases are low.
+
 -------------------------------------------------------------------------------
