@@ -16,13 +16,12 @@ It is also found that "Vegetable Products" column is redundant.If we remove "Ani
 
 I have plotted Principal Component Vs Confirmed Cases percentage to see relationship between them.
 We can see that COVID-19 confirmed percentage is less in the contries where Animal Product Protein consumption is low like India.
-
 Amongst the contries where Animal Product Protein consumption is high, we see confirmed percentage also high,like Spain, 
 United States of America, Italy.
 
 However, there are countries like Australia where confirmed percentage is low despite High % of Protein intake from 
 Animal Product source, may be, perhaps, due to other fitness habits and wide spread population etc.
---------------------------------------------------------------
+
 ------------------------------------------------------------------
 Analysis based on Confirmed Cases Percentage and Obesity Percentage
 ------------------------------------------------------------------
